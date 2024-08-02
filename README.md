@@ -5,7 +5,7 @@ Program Monitor is a utility for monitoring C and C++ programs on Linux and reco
 
 ## Installation
 ```bash
-git clone http://github.com/twenty2811/program_monitor
+git clone https://github.com/twenty2811/program_monitor
 cd program_monitor
 cargo install --path .
 ```
