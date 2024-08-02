@@ -1,9 +1,9 @@
 [package]
 edition = "2021"
 name = "program_monitor"
-version = "0.1.0"
+version = "0.1.2"
 description = "Program Monitor is a utility for monitoring C and C++ programs on Linux and recovering them from unexpected segmentation faults."
-homepage = "https://github.com/twenty2811"
+repository = "https://github.com/twenty2811"
 readme = "README.md"
 license = "MIT"
 
